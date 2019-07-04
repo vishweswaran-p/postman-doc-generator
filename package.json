@@ -1,0 +1,31 @@
+{
+  "name": "postman-doc-generator",
+  "version": "1.0.0",
+  "description": "This package is used to create an xlsx file from the postman collection.",
+  "main": "doc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vishweswaran-p/postman-doc-generator"
+  },
+  "bugs": {
+    "url" : "https://github.com/vishweswaran-p/postman-doc-generator/issues",
+    "email" : "vishnuit18@gmail.com"
+  },
+  "dependencies": {
+    "exceljs": "^1.13.0",
+    "fs": "0.0.1-security",
+    "prompt": "^1.0.0"
+  },
+  "keywords": [
+    "postman",
+    "postman-doc-generator",
+    "doc-generator",
+    "document",
+    "postman-document"
+  ],
+  "author": "vishnu",
+  "license": "ISC"
+}
